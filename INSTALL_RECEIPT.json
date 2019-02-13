@@ -1,0 +1,12 @@
+{
+    "HEAD": "",
+    "built_as_bottle": true,
+    "compiler": "gcc",
+    "poured_from_bottle": true,
+    "stdlib": null,
+    "tapped_from": "mknclab/gicn",
+    "time": 0,
+    "unused_options": [],
+    "used_options": [],
+    "runtime_dependencies":[]
+}
